@@ -1,2 +1,2 @@
 # PRAKTIKUM
-Mata Kuliah Dasar Pemrograman
+Basic Programming Course

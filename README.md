@@ -1,2 +1,0 @@
-# PRAKTIKUM
-Basic Programming Course
